@@ -18,7 +18,5 @@ This project demonstrates backend automation, Telegram bot development, and API 
 
 ---
 
-## 🧭 Demo (How It Works)
 
-### 👋 Step 1: Start the bot
-The user types `/start` and chooses their role:
+
